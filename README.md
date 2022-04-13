@@ -9,4 +9,4 @@ Skils </br>
 
 Tools </br>
 <img src="https://img.shields.io/badge/Visual Studio-5C3D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
