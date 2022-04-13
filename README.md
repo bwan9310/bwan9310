@@ -4,13 +4,13 @@
 
 <p align="center">
   Hi there, Good day!</br>
-  I am Bohwan Rim who is a developer.</br>
+  I am a develpoer </br>
+  I have been 6 years career experience in the development company as a developer. </br>
   If you want to contact me, please leave me a message!</br>
 </p>
 
 <h3 align="center">Experience</h3>
 <p align="center">
-  I have been 6 years career experience in the development company as a developer. </br>
   I experience various language in the colleage. </br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -34,3 +34,6 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C3D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
  </p>
+
+
+https://pages.github.com/
