@@ -10,8 +10,8 @@
 
 <h3 align="center">Experience</h3>
 <p align="center">
-  I have been 6 years career experience in the development company as an development. </br>
-  I experience various language in colleage. </br>
+  I have been 6 years career experience in the development company as a developer. </br>
+  I experience various language in the colleage. </br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
